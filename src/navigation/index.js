@@ -19,4 +19,4 @@ const RootNavigation = () => {
 };
 
 export default RootNavigation;
-//export default 
+//export

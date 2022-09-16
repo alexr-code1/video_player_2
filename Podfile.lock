@@ -447,6 +447,7 @@ DEPENDENCIES:
   - RNVectorIcons (from `../node_modules/react-native-vector-icons`)
   - Yoga (from `../node_modules/react-native/ReactCommon/yoga`)
 
+
 SPEC REPOS:
   trunk:
     - CocoaAsyncSocket

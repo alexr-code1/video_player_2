@@ -2,9 +2,8 @@ import React from 'react';
 import { useState } from 'react';
 import {View, Text, Touchable, TouchableWithoutFeedback, Image, TouchableOpacity} from 'react-native';
 
-
-import Video from 'react-native-video';
 import styles from './styles';
+import Video from 'react-native-video';
 
 import Entypo from 'react-native-vector-icons/Entypo';
 import AntDesign from 'react-native-vector-icons/AntDesign';
